@@ -1,5 +1,5 @@
 # NewsSource
-Try the api at below link
+ Api Link
 https://newssource.pythonanywhere.com/
 
 End Point Available:
