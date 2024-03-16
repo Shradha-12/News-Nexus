@@ -1,5 +1,5 @@
 # NewsSource
- Api Link
+ Api Link -
 https://newssource.pythonanywhere.com/
 
 End Point Available:
@@ -8,10 +8,7 @@ End Point Available:
       /query/<query>
       /trendingNews
       /api
-
-## Now you can test it simply on :
-      https://m0hit-kumar.github.io/API-Tester
-
+      
 
 ## Installation
 
